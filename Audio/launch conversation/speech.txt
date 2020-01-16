@@ -1,0 +1,26 @@
+Init:
+Hi, I'm your virtual mission guide, and I'll guide you "throughout" the steps of the mission. "Are you ready?"
+
+Walkthrough:
+Go to the white circle.
+To reach the "moon!", you need to make a journey throught that spaceship. It's Seizer 1 , type "Lander", spacecraft that's especially designed for carrying human to the moon.
+You have successfully reached to your spacecraft. Fasten your seatbelts, prepare for the launch.
+
+Inside 1:
+This is your spacecraft. Look around it,. Infront of you, there is a control panel. In t minus 5 minutes, we are going to launch.
+
+Inside 2:
+Check the whether and wind status. The wind is blowing at 39 km/h and the sky is clean and calm. Perfect condition for a launch. Whether status checking Confirmed.
+
+Inside 3:
+Press the green button to start loading fuel.
+Check the fuel level.
+Fuel is completely loaded.
+
+Inside 4:
+Check the Engine status.
+All engines are, online, and ready to go for a launch.
+
+Final:
+Press the red button for,  launch.
+Seizer-1 is launching in t minus 10,,, 9,,, 8,,, 7,,, 6,,, 5,,, 4,,, 3,,, 2,,, 1,,,,, ignition,....... lift off,. we have a lift off
